@@ -1,3 +1,1 @@
-# part0
-
-> Part 0 Exercises
+# part 0 Exercises by Dagoberto Salas Cordero
